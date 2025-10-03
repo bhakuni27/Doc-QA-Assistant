@@ -35,7 +35,7 @@ class DocQAAssistant:
         self.embeddings = embeddings
         return index
 
-    def retrieve_chunks(self, question, top_k=2, threshold=0.5):
+    def retrieve_chunks(self, question, top_k=2, threshold=0.25):
         q_emb = self.embedder.encode([question], convert_to_numpy=True)
         q_emb = q_emb / np.linalg.norm(q_emb, axis=1, keepdims=True)
 
