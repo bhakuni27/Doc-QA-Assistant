@@ -70,7 +70,7 @@ streamlit run streamlit_app.py
 
 Here are some example interactions with the assistant:
 
-![Q1 Screenshot](screenshots/q1.png)
-![Q2 Screenshot](screenshots/q2.png)
-![Q3 Screenshot](screenshots/q3.png)
-![Q4 Screenshot](screenshots/q4.png)
+![Q1 Screenshot](screenshots/Q1.png)
+![Q2 Screenshot](screenshots/Q2.png)
+![Q3 Screenshot](screenshots/Q3.png)
+![Q4 Screenshot](screenshots/Q4.png)
