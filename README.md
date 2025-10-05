@@ -10,6 +10,10 @@ This makes the project a simple but powerful example of **Retrieval-Augmented Ge
 
 > **NOTE**: This project runs fully locally and does **not require any API keys**.
 
+## Live Demo  
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doc-app-assistant.streamlit.app/)
+
 ## Tech Stack
 
 - [PyPDF2](https://pypi.org/project/PyPDF2/) - Extracts raw text from uploaded PDF
@@ -66,7 +70,7 @@ streamlit run streamlit_app.py
     - “What is the Kuiper Belt?”
     - “Who discovered gravity?” → “I don’t know based on this document.”
 
-## Demo
+## Demo Screenshots
 
 Here are some example interactions with the assistant:
 
