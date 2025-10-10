@@ -76,5 +76,3 @@ Here are some example interactions with the assistant:
 
 ![Q1 Screenshot](screenshots/Q1.png)
 ![Q2 Screenshot](screenshots/Q2.png)
-![Q3 Screenshot](screenshots/Q3.png)
-![Q4 Screenshot](screenshots/Q4.png)
